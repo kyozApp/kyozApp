@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Welcome to kyozApp's GitHub!
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> ¡Bienvenido al GitHub de kyozApp!
 
-## Hi there! I'm [Erick Palomino](#) 👋
+## ¡Hola! Soy [Erick Palomino](#) 👋
 
-![Condor Coders Banner](Banner.gif)
+![Banner de Erick Palomino](Banner.gif)
 
-### Connect with me:
+### Conéctate conmigo:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/)
@@ -14,15 +14,15 @@
 
 ---
 
-## About Me
+## Sobre mí
 
 - ⭐ GitHub Star
-- 📲 Mobile Developer
-- 🎥 I teach app development on my [Website](https://youtube.com/)
+- 📲 Desarrollador móvil
+- 🎥 Enseño desarrollo de aplicaciones en mi [Sitio Web](https://youtube.com/)
 
 ---
 
-## Technologies 💻
+## Tecnologías 💻
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,18 +41,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring--boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
-### **Databases**
+### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Tools & Design**
+### **Herramientas y Diseño**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## ⚙️ GitHub Analytics
+## ⚙️ Análisis de GitHub
 
 <p align="center">
 <a href="https://github.com/kyozApp">
